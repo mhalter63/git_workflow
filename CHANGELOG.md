@@ -5,4 +5,3 @@
 
 ## Release 0.2.0
 - Main preparation
-- Feature 2
